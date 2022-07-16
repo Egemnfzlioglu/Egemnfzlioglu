@@ -4,7 +4,7 @@
 
 
   
-- 🌱 I’m currently working with **JavaScript, .Net and React**
+- 🌱 I’m currently working with **JavaScript, React**
 
 - 📫 How to reach me **egemnfzlioglu@gmail.com**
  </p>
