@@ -1,19 +1,19 @@
-<h2 align="center">Hello there! 🚀 I'm S.alper</h1>
-<div align="center"><img src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" width="480" height="313"/>
+<h2 align="center">Hello there! 🚀 I'm Egemen FAZLIOGLU</h1>
+// resim
 </div>
 
 
   
 - 🌱 I’m currently working with **JavaScript, .Net and React**
 
-- 📫 How to reach me **semihalperkeskin@gmail.com**
+- 📫 How to reach me **egemnfzlioglu@gmail.com**
  </p>
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/salperkeskin" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="semihalperkeskin" height="30" width="30" /></a>
-<a href="https://instagram.com/salperkeskin" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="semihalperkeskin" height="30" width="30" /></a>
+<a href= "https://www.linkedin.com/in/egemen-fazlioglu/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="egemnfazlioglu" height="30" width="30" /></a>
+<a href="https://instagram.com/egemnfazlglu" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="egemenfazlıoglu" height="30" width="30" /></a>
 
 
 <br>
@@ -45,6 +45,6 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semihalperkeskin&show_icons=true&theme=radical&locale=en&layout=compact" alt="semihalperkeskin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Egemnfzlioglu&show_icons=true&theme=radical&locale=en&layout=compact" alt="Egemnfzlioglu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semihalperkeskin&show_icons=true&theme=dark&locale=en" alt="semihalperkeskin" width="50%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Egemnfzlioglu&show_icons=true&theme=dark&locale=en" alt="Egemnfzlioglu" width="50%" /></p>
