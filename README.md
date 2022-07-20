@@ -1,14 +1,14 @@
 <h2 align="center">Hello there! 🚀 I'm Egemen FAZLIOGLU</h1>
 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-
-<iframe src="https://giphy.com/embed/QXjxcDPmJK1920BxYI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 
-</iframe></div><p><a href="https://giphy.com/gifs/mlb-mvp-asg-giancarlo-stanton-QXjxcDPmJK1920BxYI">via GIPHY</a></p>
+<img src="https://giphy.com/embed/QXjxcDPmJK1920BxYI" width="100%">
 
 
+
+
+<img src="https://giphy.com/embed/QXjxcDPmJK1920BxYI" alt="javascript" width="100%"  /> 
 
  <img src="https://i.picsum.photos/id/1057/6016/4016.jpg?hmac=RjPyzbGq_MxSbghhfa1iVykXTskk9IISuzavny11_lI" alt="javascript" width="100%"  /> 
 
