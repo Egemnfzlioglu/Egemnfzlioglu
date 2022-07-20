@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! 🚀 I'm Egemen FAZLIOGLU</h1>
 
 
- <img src="https://i.picsum.photos/id/1057/6016/4016.jpg?hmac=RjPyzbGq_MxSbghhfa1iVykXTskk9IISuzavny11_lI" alt="javascript" width="75%" /> 
+ <img src="https://i.picsum.photos/id/1057/6016/4016.jpg?hmac=RjPyzbGq_MxSbghhfa1iVykXTskk9IISuzavny11_lI" alt="javascript" width="75%"align="center" /> 
 
 </div>
 
