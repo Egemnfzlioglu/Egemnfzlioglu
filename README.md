@@ -3,9 +3,7 @@
 
 <img src="https://media.giphy.com/media/QXjxcDPmJK1920BxYI/giphy.gif" alt="javascript" width="100%"  /> 
 
- <img src="https://i.picsum.photos/id/1057/6016/4016.jpg?hmac=RjPyzbGq_MxSbghhfa1iVykXTskk9IISuzavny11_lI" alt="javascript" width="100%"  /> 
 
-</div>
 
 
   
