@@ -1,7 +1,6 @@
 <h2 align="center">Hello there! 🚀 I'm Egemen FAZLIOGLU</h1>
 
 
-<img src="https://media.giphy.com/media/QXjxcDPmJK1920BxYI/giphy.gif" alt="javascript" width="100%" /> 
 
 
 
